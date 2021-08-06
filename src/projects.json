@@ -1,0 +1,97 @@
+[
+	{
+		"path": "/projects/",
+		"title": "Sparkit",
+		"slug": "sparkit",
+		"link": "http://sparkit.app",
+		"type": "web application",
+		"description": "built for the purpose of connecting event hosts with event-goers (or Users). Hosts who sign up can utilize a free, intuitive, drag-and-drop calendar to advertise scheduled events. In addition, Hosts can seamlessly link their Sparkit account to Stripe which then allows them to create 'Sparks'. Sparks allow Hosts to advertise open event space with a price goal, minimum and maximum number of Users. Users from all over can contribute towards the price goal and - if it's met - their credit cards are charged and unique identifiers are given to both the Host and Users to streamline the entry process.",
+		"technologies": {
+			"Python": ["Django", "Django Rest Framework"],
+			"JavaScript": ["jQuery", "Moment.js"],
+			"PostgreSQL": [],
+			"Stripe": [],
+			"Sendgrid": [],
+			"Heroku": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "Trailsage",
+		"slug": "trailsage",
+		"link": "https://trailsage.app",
+		"type": "web application",
+		"description": "that leverages Elasticsearch to aggregate trail condition data. Built with as little UX friction as possible, users can register and create trail condition posts in a matter of minutes. Elasticsearch functionality allows for a greater margin of error and nuance when it comes to user input.",
+		"technologies": {
+			"Ruby": ["Rails"],
+			"JavaScript": ["React"],
+			"PostgreSQL": [],
+			"Elasticsearch": [],
+			"Sendgrid": [],
+			"Heroku": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "Dragonslater",
+		"slug": "dragonslater",
+		"link": "",
+		"type": "native application",
+		"description": "that transcodes video files into various codecs and containers along with optional, prepended metadata. In the world of broadcast advertising, distributing one commercial to various stations and services can be a monumental task. Between different codecs, containers and metadata (slate) requirements, what should be a straight-forward process can easily get out of hand. Dragonslater helps to solve this problem.",
+		"technologies": {
+			"Python": ["Tkinter", "MoviePy"],
+			"FFMpeg": [],
+			"ImageMagick": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "DRYAD",
+		"slug": "dryad",
+		"link": "https://addons.mozilla.org/en-CA/firefox/addon/dryad/",
+		"type": "mozilla browser extension",
+		"description": "that makes repetitive text tasks simple. Use the DRYAD modal to map blocks of text to commands as small as 1 character - these are called macros. Use macros to piece together things like email templates with more granularity and control.",
+		"technologies": {
+			"JavaScript": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "OIDC Server",
+		"slug": "oidc-server",
+		"link": "https://github.com/Tennyx/oidc-idp-sim",
+		"type": "server",
+		"description": "utilizing the OAuth extension OpenID Connect to simulate an identity provider. It is configured to work with Okta as the service provider. Follow the flow from Okta to the identity provider, back to Okta, and finally end up with tokens granted by Okta to your application. Utilizing ngrok you can wach all the requests and responses taking place in this flow.",
+		"technologies": {
+			"Python": ["Flask"],
+			"ngrok": [],
+			"Okta": [],
+			"OAuth/OIDC": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "SCIM Server",
+		"slug": "scim-server",
+		"link": "https://github.com/Tennyx/flask_scim_server",
+		"type": "server",
+		"description": "utilizing the SCIM provisioning protocol that integrates with Okta. Using ngrok, view the various requests and responses between Okta as the source of truth and the SCIM server.",
+		"technologies": {
+			"Python": ["Flask"],
+			"ngrok": [],
+			"Okta": [],
+			"SCIM": []
+		}
+	},
+	{
+		"path": "/projects/",
+		"title": "Portfolio",
+		"slug": "portfolio",
+		"link": "http://github.com/Tennyx/cale",
+		"type": "web site",
+		"description": "that showcases my projects. IE - the site you're on! It's a single page, responsive site built in Reactjs.",
+		"technologies": {
+			"JavaScript": ["React"]
+		}
+	}
+]
