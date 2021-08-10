@@ -35,7 +35,7 @@
 		"path": "/projects/",
 		"title": "Dragonslater",
 		"slug": "dragonslater",
-		"link": "",
+		"link": "https://www.youtube.com/watch?v=AzIFCGQ_CMQ",
 		"type": "native application",
 		"description": "that transcodes video files into various codecs and containers along with optional, prepended metadata. In the world of broadcast advertising, distributing one commercial to various stations and services can be a monumental task. Between different codecs, containers and metadata (slate) requirements, what should be a straight-forward process can easily get out of hand. Dragonslater helps to solve this problem.",
 		"technologies": {
@@ -73,7 +73,7 @@
 		"path": "/projects/",
 		"title": "SCIM Server",
 		"slug": "scim-server",
-		"link": "https://github.com/Tennyx/flask_scim_server",
+		"link": "https://github.com/Tennyx/flask-scim-server",
 		"type": "server",
 		"description": "utilizing the SCIM provisioning protocol that integrates with Okta. Using ngrok, view the various requests and responses between Okta as the source of truth and the SCIM server.",
 		"technologies": {
