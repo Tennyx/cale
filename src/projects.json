@@ -85,6 +85,19 @@
 	},
 	{
 		"path": "/projects/",
+		"title": "Private Key JWT",
+		"slug": "private-key-jwt",
+		"link": "https://github.com/Tennyx/private-key-jwt-python",
+		"type": "tool",
+		"description": "that generates an RSA keypair, creates an application in Okta with the public key, and retrieves an access token from Okta after submitting a JWT signed with the private key. This tool simplifies this complicated OAuth flow into three Python commands ran in terminal.",
+		"technologies": {
+			"Python": [],
+			"Okta": [],
+			"OAuth": []
+		}
+	},
+	{
+		"path": "/projects/",
 		"title": "Portfolio",
 		"slug": "portfolio",
 		"link": "http://github.com/Tennyx/cale",
