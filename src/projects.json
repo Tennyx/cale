@@ -57,6 +57,19 @@
 	},
 	{
 		"path": "/projects/",
+		"title": "Okta Ruby SDK",
+		"slug": "oktennyx-ruby",
+		"link": "https://github.com/Tennyx/oktennyx-ruby",
+		"type": "software development kit",
+		"description": "that integrates with and implements management tasks for Okta orgs. Enables a whole range of CRUD actions involving users, groups, logs and more. Pagination system implemented in order to reduce api calls. Authenticates with either an API token or OAuth.",
+		"technologies": {
+			"Ruby": [],
+			"Okta": [],
+			"OAuth": []
+		}
+	},
+	{
+		"path": "/projects/",
 		"title": "OIDC Server",
 		"slug": "oidc-server",
 		"link": "https://github.com/Tennyx/oidc-idp-sim",

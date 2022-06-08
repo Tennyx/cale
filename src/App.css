@@ -11,7 +11,7 @@ body {
 }
 
 h2 {
-	background: #24ff53;
+	background: #48d466;
 	color: #1a1a1a;
 	padding: 10px;
 	margin-top: 0px;
@@ -23,7 +23,7 @@ hr {
 
 a {
 	font-size: 18px;
-	color: #24ff53;
+	color: #48d466;
 	text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ a:hover {
 
 .side-bar {
 	padding: 30px;
-	color: #24ff53;
+	color: #48d466;
 	text-align: left;
 	width: 230px;
 	min-width: 230px;
@@ -57,7 +57,7 @@ a:hover {
 
 .top-bar {
 	padding: 30px 30px 10px 30px;
-	color: #24ff53;
+	color: #48d466;
 	text-align: center;
 	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 	position: sticky;
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .sub-label:hover {
-	background: #24ff53;
+	background: #48d466;
 	color: #1a1a1a;
 }
 
@@ -102,7 +102,7 @@ a:hover {
 
 .contact-image, .link-image {
 	height: 15px;
-	fill: #24ff53;
+	fill: #48d466;
 	margin-right: 5px;
 }
 
@@ -125,7 +125,7 @@ a:hover {
 
 .hamburger-image {
 	height: 25px;
-	fill: #24ff53;
+	fill: #48d466;
 	padding: 5px;
 	border: 2px #475e4c solid;
 }
@@ -147,7 +147,7 @@ a:hover {
 /* home */
 
 .mountains-image {
-	fill: #24ff53;
+	fill: #48d466;
 	margin-top: 200px;
 	position: absolute;
 }
@@ -184,7 +184,7 @@ a:hover {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	border-top: 1px #24ff53 solid;
+	border-top: 1px #48d466 solid;
 	padding: 30px 0px;
 	position: relative;
 	overflow:hidden;
